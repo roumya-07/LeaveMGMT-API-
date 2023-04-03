@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveMGMT(API)", "LeaveMGMT(API)\LeaveMGMT(API).csproj", "{6FC107D7-BE62-4344-8B4B-FA653AB5F347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveMGMT(Web)", "LeaveMGMT(Web)\LeaveMGMT(Web).csproj", "{73848215-B620-45CC-9A1F-A930F523F646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC107D7-BE62-4344-8B4B-FA653AB5F347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC107D7-BE62-4344-8B4B-FA653AB5F347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC107D7-BE62-4344-8B4B-FA653AB5F347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC107D7-BE62-4344-8B4B-FA653AB5F347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73848215-B620-45CC-9A1F-A930F523F646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73848215-B620-45CC-9A1F-A930F523F646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73848215-B620-45CC-9A1F-A930F523F646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73848215-B620-45CC-9A1F-A930F523F646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407D7C2F-F4E1-4817-B032-66E1B8252BA3}
+	EndGlobalSection
+EndGlobal
